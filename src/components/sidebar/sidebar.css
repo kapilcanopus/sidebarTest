@@ -1,0 +1,11 @@
+.ps-menu-button:hover{
+    background-color: #4da3e0 !important;
+}
+
+.side-bar-header{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #141531;
+}
